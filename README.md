@@ -1,9 +1,12 @@
 # Disaster tweets Kaggle classification challenge
 
 Twitter has become an important communication channel in times of emergency.
-The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).<br><br>
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).<br>
 
-In this competition, we are challenged to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t.
+In this competition, we are challenged to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t.<br>
+
+The data is taken from the Natural Language Processing with Disaster Tweets competition on Kaggle<br>
+https://www.kaggle.com/competitions/nlp-getting-started/overview
 
 ## Project structure outline
 1. Problem description & project motivation
