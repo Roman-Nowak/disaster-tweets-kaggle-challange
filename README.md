@@ -24,14 +24,14 @@ https://www.kaggle.com/competitions/nlp-getting-started/overview
 8. Data preparation
     * Cleaning the data
     * Vectorizing the data
-    * Combining tf-idf and count vectorization
     * Tf-idf vectorizing joined columns
+    * Word2vec vectorizing joined columns
 9. Training models
-    * Models trained on combined tf-idf and count vectorized features
+    * Models trained on tf-idf features
         * Logistic regression
         * Multinomial Naive Bayes
-    * Models trained on tf-idf vectorized joined columns features
+    * Models trained on word2vec features
         * Logistic regression
-        * Multinomial Naive Bayes
+        * Gaussian Naive Bayes
 10. Model prediction comparison
 11. Conclusion
