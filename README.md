@@ -36,7 +36,7 @@ https://www.kaggle.com/competitions/nlp-getting-started/overview
 10. Model prediction comparison
 11. Conclusion
 
-## bert_kaggle_soution.ipynb
+## solution_bert_kaggle.ipynb
 This notebook contains a solution of the classification challange using BERT.<br>
 Here is the score achieved by the BERT model in the competition:<br>
 ![plot](./data/kaggle_score.png)
