@@ -8,7 +8,7 @@ In this competition, we are challenged to build a machine learning model that pr
 The data is taken from the Natural Language Processing with Disaster Tweets competition on Kaggle<br>
 https://www.kaggle.com/competitions/nlp-getting-started/overview
 
-## Project structure outline
+## solution.ipynb structure outline
 1. Problem description & project motivation
 2. Verbal description of the data
 3. Imports
@@ -35,3 +35,8 @@ https://www.kaggle.com/competitions/nlp-getting-started/overview
         * Gaussian Naive Bayes
 10. Model prediction comparison
 11. Conclusion
+
+## bert_kaggle_soution.ipynb
+This notebook contains a solution of the classification challange using BERT.<br>
+Here is the score achieved by the BERT model in the competition:<br>
+![plot](./data/kaggle_score.png)
